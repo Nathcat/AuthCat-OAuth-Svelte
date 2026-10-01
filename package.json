@@ -1,5 +1,5 @@
 {
-  "name": "@kitty-committee/authcat-oauth-svelte",
+  "name": "authcat-oauth-svelte",
   "version": "0.0.1",
   "license": "GPL-3.0-or-later",
   "scripts": {
