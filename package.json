@@ -27,11 +27,11 @@
       "types": "./dist/index.d.ts",
       "svelte": "./dist/index.js"
     },
-    "./OAuthButton.svelte": {
+    "./OauthButton.svelte": {
       "types": "./dist/OauthButton.svelte.d.ts",
       "svelte": "./dist/OauthButton.svelte"
     },
-    "./ProfilePicture.svelte": {
+    "./Profilepicture.svelte": {
       "types": "./dist/Profilepicture.svelte.d.ts",
       "svelte": "./dist/Profilepicture.svelte"
     }
