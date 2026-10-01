@@ -6,6 +6,10 @@
     "name": "Nathcat",
     "email": "nathan.baines@nathcat.net"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nathcat/AuthCat-OAuth-Svelte"
+  },
   "scripts": {
     "dev": "vite dev",
     "build": "vite build && npm run prepack",

@@ -31,7 +31,7 @@ type AccessTokenTableRow = {
 };
 
 /**
- * @brief Implementation of PageServerLoad which redirects with 302 login_page_path, when authentication fails. Authentication is performed via a session cookie token named "session". If successful, user data is returned.
+ * @brief Should in the PageServerLoad function of any page which requires authentication. Will either return the authenticated user's data, or redirect to the login page.
  */
 export const authenticate_or_redirect = async (
   cookies: Cookies,
