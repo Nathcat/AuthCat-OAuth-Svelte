@@ -1,5 +1,5 @@
 {
-  "name": "authcat-oauth-svelte",
+  "name": "@kitty-committee/authcat-oauth-svelte",
   "version": "0.0.1",
   "license": "GPL-3.0-or-later",
   "scripts": {
@@ -51,6 +51,6 @@
     "uuid": "^14.0.2"
   },
   "publishConfig": {
-    "registry": "https://npm.nathcat.net/"
+    "@kitty-committee:registry": "https://npm.nathcat.net/"
   }
 }
