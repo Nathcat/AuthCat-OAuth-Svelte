@@ -2,6 +2,10 @@
   "name": "@kitty-committee/authcat-oauth-svelte",
   "version": "0.0.3",
   "license": "GPL-3.0-or-later",
+  "author": {
+    "name": "Nathcat",
+    "email": "nathan.baines@nathcat.net"
+  },
   "scripts": {
     "dev": "vite dev",
     "build": "vite build && npm run prepack",
